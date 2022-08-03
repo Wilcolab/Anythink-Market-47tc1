@@ -14,9 +14,15 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## How to setup the environment and start using docker:
 -install the docker 
+
 -If it is properly installed , go to cmd run the following command docker -v and docker-compose-v for the confirmation
+
 -After that run the command docker-compose up from the project root directory(that is go to the folder where you have clone your Anythink repo from the cmd itslef and run the comand)
+
 -if you are getting some error(Make sure you installed the updated version and keep your Linux file update too).
+
 - if you have done this far bingo!!!!
+
 -point your browser to local host
+
 -and your environment is ready
